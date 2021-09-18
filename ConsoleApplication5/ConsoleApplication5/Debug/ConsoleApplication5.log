@@ -1,0 +1,4 @@
+﻿  源.cpp
+g:\学习总结\c++\codetraining\consoleapplication5\consoleapplication5\源.cpp(17): warning C4101: “p”: 未引用的局部变量
+  ConsoleApplication5.vcxproj -> G:\学习总结\C++\codeTraining\ConsoleApplication5\Debug\ConsoleApplication5.exe
+  ConsoleApplication5.vcxproj -> G:\学习总结\C++\codeTraining\ConsoleApplication5\Debug\ConsoleApplication5.pdb (Full PDB)

@@ -1,0 +1,5 @@
+﻿  2D seq_conv.cpp
+c:\users\lenovo\desktop\2d seq_conv\2d seq_conv.cpp(23): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+c:\users\lenovo\desktop\2d seq_conv\2d seq_conv.cpp(45): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+  convolution1.vcxproj -> G:\studySum\C++\codeTraining\convolution1\Debug\convolution1.exe
+  convolution1.vcxproj -> G:\studySum\C++\codeTraining\convolution1\Debug\convolution1.pdb (Full PDB)
